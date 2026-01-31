@@ -1,3 +1,5 @@
+[中文 (Chinese)](README.zh-TW.md)
+
 # Shawn Chen (陳鈺翔)
 
 > Master's Student in Computer Science @ NTUST
@@ -16,21 +18,28 @@
 
 ### ■ FEATURED RESEARCH & PROJECTS
 
-#### 1. Malware Classification via Federated Learning
+#### 1. Daily Paper Translation Recommendation System (Marker-Gemini-Translator)
+[**[View Repository]**](https://github.com/Bookweight/Marker-Gemini-Translator.git)
+> **Topic:** Automated AI Research Assistance
+* **Function**: An automated system that fetches, recommends, and translates daily research papers.
+* **Key Innovation**: Refactored the pipeline from a mixed shell/Python environment to a **Unified Python-native architecture**. Integrated **Google Gemini SDK** for context-aware translations and **Marker** for high-fidelity PDF-to-Markdown conversion.
+* **Stack**: `Python` `Google Gemini` `Marker` `Automation`
+
+#### 2. Malware Classification via Federated Learning
 [**[View Repository]**](https://github.com/Bookweight/Malware-classification-using-federated-learning.git)
 > **Topic:** Privacy-Preserving AI & Computer Vision
 * **Core Architecture**: Classifies virus source code (grayscale) and API call sequences (color) using multi-modal input.
 * **Key Innovation**: Implemented **Federated Learning** framework integrated with **Differential Privacy** to defend against Backdoor Attacks (Data Poisoning).
 * **Stack**: `Python` `PyTorch` `CUDA` `Federated Learning`
 
-#### 2. E.SUN AI Public Challenge: Warning Account Detection
+#### 3. E.SUN AI Public Challenge: Warning Account Detection
 [**[View Repository]**](https://github.com/Bookweight/AICup-AML-2025-Team8482.git)
 > **Topic:** Financial Fraud Detection (Top 4% Performance)
 * **Achievement**: Ranked **30th out of 790 teams**.
 * **Technical Detail**: Handled highly **unbalanced datasets** involving transaction details. Optimized the model to maximize F1-score through advanced feature engineering.
 * **Stack**: `Data Mining` `Imbalanced Learning` `Scikit-learn`
 
-#### 3. Social Media Trending Post Predictor
+#### 4. Social Media Trending Post Predictor
 [**[View Repository]**](https://github.com/Bookweight/Social-Media-Trending-Post-Predictor.git)
 > **Topic:** Real-time Data Analysis
 * **Function**: Fetches real-time PTT data via custom crawler to forecast the **Top 10 popular posts** for the upcoming 2-hour window.
