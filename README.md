@@ -1,13 +1,16 @@
-[中文 (Chinese)](README.zh-TW.md)
+[![Language](https://img.shields.io/badge/English-%E4%B8%AD%E6%96%87-white?labelColor=2ea44f&style=flat)](README.zh-TW.md)
 
 # Shawn Chen (陳鈺翔)
 
-> Master's Student in Computer Science @ NTUST
-> **Focus:** AI Security | Data Mining | Hardware-Software Integration
+> New Taipei City, Taiwan • [sish355155@gmail.com](mailto:sish355155@gmail.com)
+> [GitHub](https://github.com/Bookweight)
+
+**Master's Student in Computer Science @ NTUST**
+**Focus:** AI Security | Data Mining | Hardware-Software Integration
 
 ---
 
-### ■ EDUCATION
+### EDUCATION
 
 * **M.S. in Computer Science & Information Engineering**
     * National Taiwan University of Science and Technology (NTUST)
@@ -16,20 +19,20 @@
 
 ---
 
-### ■ FEATURED RESEARCH & PROJECTS
+### FEATURED RESEARCH & PROJECTS
 
 #### 1. Daily Paper Translation Recommendation System (Marker-Gemini-Translator)
 [**[View Repository]**](https://github.com/Bookweight/Marker-Gemini-Translator.git)
 > **Topic:** Automated AI Research Assistance
 * **Function**: An automated system that fetches, recommends, and translates daily research papers.
-* **Key Innovation**: Refactored the pipeline from a mixed shell/Python environment to a **Unified Python-native architecture**. Integrated **Google Gemini SDK** for context-aware translations and **Marker** for high-fidelity PDF-to-Markdown conversion.
+* **Key Concept**: Refactored the pipeline from a mixed shell/Python environment to a **Unified Python-native architecture**. Integrated **Google Gemini SDK** for context-aware translations and **Marker** for high-fidelity PDF-to-Markdown conversion.
 * **Stack**: `Python` `Google Gemini` `Marker` `Automation`
 
 #### 2. Malware Classification via Federated Learning
 [**[View Repository]**](https://github.com/Bookweight/Malware-classification-using-federated-learning.git)
 > **Topic:** Privacy-Preserving AI & Computer Vision
 * **Core Architecture**: Classifies virus source code (grayscale) and API call sequences (color) using multi-modal input.
-* **Key Innovation**: Implemented **Federated Learning** framework integrated with **Differential Privacy** to defend against Backdoor Attacks (Data Poisoning).
+* **Key Concept**: Implemented **Federated Learning** framework integrated with **Differential Privacy** to defend against Backdoor Attacks (Data Poisoning).
 * **Stack**: `Python` `PyTorch` `CUDA` `Federated Learning`
 
 #### 3. E.SUN AI Public Challenge: Warning Account Detection
@@ -48,18 +51,31 @@
 
 ---
 
-### ■ ENGINEERING & HARDWARE IMPLEMENTATION
+### ENGINEERING & HARDWARE IMPLEMENTATION
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **Parking Management Tool**<br>[View Repo](https://github.com/Bookweight/Graduation-Project.git) | **[Bachelor's Project]** Utilized **YOLO** object detection to create an automated parking space management tool. Optimized for real-time monitoring. | `YOLO` `Computer Vision` `Python` |
-| **FPGA Design Practice**<br>[View Repo](https://github.com/Bookweight/FPGA-design-practice.git) | Created digital logic designs using **VHDL** on **Quartus**. Verified functions on **ModelSIM** and loaded implementations onto a single-chip **STC89C52RC** board. | `VHDL` `Quartus` `ModelSIM` |
-| **Daily Work Doc APP**<br>[View Repo](https://github.com/Bookweight/Java-APP-project.git) | Developed a desktop application for daily work documentation featuring a GUI. Built with strict adherence to **OOP** principles. | `Java` `Swing` `OOP` |
-| **Classroom Rental System**<br>[View Repo](https://github.com/Bookweight/NTOUClassroomBorrowing.git) | Implemented specific backend modules and **RESTful APIs**. Optimized query logic to handle concurrent reservation conflicts. | `Java` `Spring` `SQL` |
+#### Parking Management Tool (Graduation Project)
+[**[View Repository]**](https://github.com/Bookweight/Graduation-Project.git)
+* **Description**: Utilized **YOLO** object detection to create an automated parking space management tool. Optimized for real-time monitoring.
+* **Stack**: `YOLO` `Computer Vision` `Python`
+
+#### FPGA Design Practice
+[**[View Repository]**](https://github.com/Bookweight/FPGA-design-practice.git)
+* **Description**: Created digital logic designs using **VHDL** on **Quartus**. Verified functions on **ModelSIM** and loaded implementations onto a single-chip **STC89C52RC** board.
+* **Stack**: `VHDL` `Quartus` `ModelSIM`
+
+#### Daily Work Doc APP
+[**[View Repository]**](https://github.com/Bookweight/Java-APP-project.git)
+* **Description**: Developed a desktop application for daily work documentation featuring a GUI. Built with strict adherence to **OOP** principles.
+* **Stack**: `Java` `Swing` `OOP`
+
+#### Classroom Rental System
+[**[View Repository]**](https://github.com/Bookweight/NTOUClassroomBorrowing.git)
+* **Description**: Implemented specific backend modules and **RESTful APIs**. Optimized query logic to handle concurrent reservation conflicts.
+* **Stack**: `Java` `Spring` `SQL`
 
 ---
 
-### ■ TECHNICAL SKILLS
+### TECHNICAL SKILLS
 
 **➤ Languages**
 <br>
@@ -94,6 +110,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
-
----
-[Email](mailto:sish355155@gmail.com) • New Taipei City, Taiwan
